@@ -1,1 +1,1 @@
-# M2_Embedded_LCD
+# M2_Embedded_SeatHeatingApp
