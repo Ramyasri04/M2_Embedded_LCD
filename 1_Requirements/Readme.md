@@ -15,6 +15,3 @@ The heat dissipation of car seat back is poor if there is no extra ventilation s
 - Sitting in the cold is not the best health condition, especially in winter, when the temperature is very low outside, you need to warm up quickly in the car so as not to catch a cold and get sick.
 
 - Back warming is also very useful in certain diseases, for example, sciatica. For drivers with such problems, the use of heating can be shown even in the warm season.
-
-## 4W's & 1H
-
